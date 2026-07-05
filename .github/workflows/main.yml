@@ -27,12 +27,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Node deps
-        run: npm install   # only if you have a package.json / node_modules deps
-
-      - name: Install Python deps
-        run: pip install -r requirements.txt   # if you have one, else delete this line
-
       - name: Write API key from secret
         run: |
           mkdir -p data

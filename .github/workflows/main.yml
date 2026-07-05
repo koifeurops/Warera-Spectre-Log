@@ -51,7 +51,6 @@ jobs:
 
           mkdir -p docs
           cp "$folder_name"/index.html "docs/Week-${week_number}.html"
-          cp "$folder_name"/index.html docs/index.html
 
       - name: Commit new data + published pages
         run: |

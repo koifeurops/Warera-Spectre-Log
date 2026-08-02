@@ -1,0 +1,678 @@
+{
+  "mu": {
+    "name": "SPECTRE",
+    "avatarUrl": "https://media.warera.io/avatars/mu/mu-69d206fc97650a3fb98a8520-1775372044366-n23wet1t.png",
+    "rankings": {
+      "muWeeklyDamages": {
+        "value": 224658599,
+        "rank": 5,
+        "tier": "master"
+      },
+      "muBounty": {
+        "value": 90410.62451529999,
+        "rank": 18,
+        "tier": "diamond"
+      },
+      "muReputation": {
+        "value": 80.99245106811507,
+        "rank": 1,
+        "tier": "master"
+      },
+      "muDamages": {
+        "value": 2527089259,
+        "rank": 4,
+        "tier": "master"
+      }
+    }
+  },
+  "members": [
+    {
+      "username": "Leogann",
+      "avatarUrl": "https://media.warera.io/avatars/6813b759efecdf9bab1951e6-1775485100262-7hqt5cco.png",
+      "level": 50,
+      "rankings": {
+        "userDamages": {
+          "value": 366132039,
+          "rank": 6,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 13603850,
+          "rank": 142,
+          "tier": "master"
+        },
+        "userWealth": {
+          "value": 9899.02,
+          "rank": 8583,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 46594.7763525,
+          "rank": 5,
+          "tier": "master"
+        }
+      }
+    },
+    {
+      "username": "ouais_ouais",
+      "avatarUrl": "https://media.warera.io/avatars/69036187009657975ceb4e37-1776022085122-3zb7gizh.png",
+      "level": 44,
+      "rankings": {
+        "userDamages": {
+          "value": 141638139,
+          "rank": 166,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 10158801,
+          "rank": 299,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 22907.515,
+          "rank": 3264,
+          "tier": "platinum"
+        },
+        "userBounty": {
+          "value": 8264.591183,
+          "rank": 170,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Jaskeur-Labagar",
+      "avatarUrl": "https://media.warera.io/avatars/6945bd36a3e161cb35b91c52-1776350338014-i1a9oyqv.png",
+      "level": 42,
+      "rankings": {
+        "userDamages": {
+          "value": 114125786,
+          "rank": 276,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 9330296,
+          "rank": 360,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 10505.252,
+          "rank": 8282,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 3441.410492,
+          "rank": 524,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Miltiados",
+      "avatarUrl": "https://media.warera.io/avatars/6813b758efecdf9bab1950b3-1776343500356-fn1n2b39.png",
+      "level": 50,
+      "rankings": {
+        "userDamages": {
+          "value": 276585088,
+          "rank": 22,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 17878562,
+          "rank": 64,
+          "tier": "master"
+        },
+        "userWealth": {
+          "value": 18813.031,
+          "rank": 4618,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 38703.894602,
+          "rank": 9,
+          "tier": "master"
+        }
+      }
+    },
+    {
+      "username": "Succo",
+      "avatarUrl": "https://media.warera.io/avatars/6813bf46794885f3de4d03bc-1776352652537-x4rvil6t.png",
+      "level": 50,
+      "rankings": {
+        "userDamages": {
+          "value": 225795207,
+          "rank": 44,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 12488678,
+          "rank": 186,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 26777.805,
+          "rank": 2358,
+          "tier": "platinum"
+        },
+        "userBounty": {
+          "value": 28349.240070999997,
+          "rank": 19,
+          "tier": "master"
+        }
+      }
+    },
+    {
+      "username": "Best",
+      "avatarUrl": "https://media.warera.io/avatars/692758d399b6f95d03f9fef7-1776404336788-qbh9gnv6.png",
+      "level": 41,
+      "rankings": {
+        "userDamages": {
+          "value": 99411262,
+          "rank": 348,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 8007868,
+          "rank": 519,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 7800.01,
+          "rank": 9550,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 4269.312539699999,
+          "rank": 413,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Zeewyr",
+      "avatarUrl": "https://media.warera.io/avatars/69473a49955d216659cb3dc6-1777100679074-idn3egk7.png",
+      "level": 42,
+      "rankings": {
+        "userDamages": {
+          "value": 119781801,
+          "rank": 249,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 7790316,
+          "rank": 541,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 2057.897,
+          "rank": 12150,
+          "tier": "bronze"
+        },
+        "userBounty": {
+          "value": 4258.9812581,
+          "rank": 415,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Tyfouxxx",
+      "avatarUrl": "https://media.warera.io/avatars/6916e072991d93d5d34deedb-1777104152648-jc7txtht.png",
+      "level": 44,
+      "rankings": {
+        "userDamages": {
+          "value": 147760022,
+          "rank": 149,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 13161984,
+          "rank": 161,
+          "tier": "master"
+        },
+        "userWealth": {
+          "value": 12397.78,
+          "rank": 7371,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 9694.360080499991,
+          "rank": 129,
+          "tier": "master"
+        }
+      }
+    },
+    {
+      "username": "Flamby",
+      "avatarUrl": "https://media.warera.io/avatars/6813df18a97d6575920dc94e-1777439307136-wgucxwd4.png",
+      "level": 50,
+      "rankings": {
+        "userDamages": {
+          "value": 231191179,
+          "rank": 36,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 15035275,
+          "rank": 107,
+          "tier": "master"
+        },
+        "userWealth": {
+          "value": 40885.079,
+          "rank": 690,
+          "tier": "diamond"
+        },
+        "userBounty": {
+          "value": 8997.55428,
+          "rank": 144,
+          "tier": "master"
+        }
+      }
+    },
+    {
+      "username": "Azdor",
+      "avatarUrl": "https://media.warera.io/avatars/6914918a0b5348273322d176-1778609152598-tv53xkv4.png",
+      "level": 43,
+      "rankings": {
+        "userDamages": {
+          "value": 93473943,
+          "rank": 393,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 11610304,
+          "rank": 221,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 5239.817,
+          "rank": 10605,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 1120.4004209999998,
+          "rank": 1608,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Akhonous",
+      "avatarUrl": "https://media.warera.io/avatars/6814857f3542fdf1634e531d-1778870731232-em7fqdel.png",
+      "level": 50,
+      "rankings": {
+        "userDamages": {
+          "value": 145517332,
+          "rank": 156,
+          "tier": "master"
+        },
+        "weeklyUserDamages": {
+          "value": 11143071,
+          "rank": 240,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 26888.639,
+          "rank": 2334,
+          "tier": "platinum"
+        },
+        "userBounty": {
+          "value": 6822.305684000002,
+          "rank": 211,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Faruko",
+      "avatarUrl": "https://media.warera.io/avatars/69065e23e8e12c3b9ff9f06b-1779013014076-93s2rnzm.png",
+      "level": 43,
+      "rankings": {
+        "userDamages": {
+          "value": 101600112,
+          "rank": 338,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 9813340,
+          "rank": 320,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 15675.055,
+          "rank": 5880,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 1920.5334610000007,
+          "rank": 956,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Koifeur-La-Bagarre",
+      "avatarUrl": "https://media.warera.io/avatars/69025adcfe0f15858fead462-1778427079922-egxcgc8k.png",
+      "level": 44,
+      "rankings": {
+        "userDamages": {
+          "value": 87688441,
+          "rank": 445,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 5577021,
+          "rank": 1028,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 45508.489,
+          "rank": 457,
+          "tier": "diamond"
+        },
+        "userBounty": {
+          "value": 1167.844616000001,
+          "rank": 1554,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Pyxl",
+      "avatarUrl": "https://media.warera.io/avatars/6902032f582da7f4b18f5902-1780782240355-qtlaz7q6.png",
+      "level": 44,
+      "rankings": {
+        "userDamages": {
+          "value": 108243155,
+          "rank": 305,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 10546436,
+          "rank": 271,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 12784.179,
+          "rank": 7195,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 2738.6945130000004,
+          "rank": 658,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Lulzcritic",
+      "avatarUrl": "https://media.warera.io/avatars/69035220d2b4a4bcee5f396a-1780939801085-6aqvw0h6.png",
+      "level": 42,
+      "rankings": {
+        "userDamages": {
+          "value": 61244402,
+          "rank": 767,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 3640557,
+          "rank": 1873,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 17286.238,
+          "rank": 5209,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 1151.787927999999,
+          "rank": 1568,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Sunfall",
+      "avatarUrl": "https://media.warera.io/avatars/69418fc777214006429fdbbb-1781851795251-pioy5bjr.png",
+      "level": 42,
+      "rankings": {
+        "userDamages": {
+          "value": 88056655,
+          "rank": 440,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 7746227,
+          "rank": 548,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 41758.049,
+          "rank": 623,
+          "tier": "diamond"
+        },
+        "userBounty": {
+          "value": 3025.5126969999983,
+          "rank": 599,
+          "tier": "diamond"
+        }
+      }
+    },
+    {
+      "username": "Csvop-de-FunesBigard",
+      "avatarUrl": "https://media.warera.io/avatars/6941081ccb2715e852c98d71-1785055942300-d77rqkgo.png",
+      "level": 33,
+      "rankings": {
+        "userDamages": {
+          "value": 31514241,
+          "rank": 1860,
+          "tier": "platinum"
+        },
+        "weeklyUserDamages": {
+          "value": 5145207,
+          "rank": 1167,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 6497.658,
+          "rank": 10082,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 670.0152580000001,
+          "rank": 2457,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Make_11",
+      "avatarUrl": "https://media.warera.io/avatars/693eccbbc4a36f2529fc3e50-1783440881762-bpl15x2o.png",
+      "level": 37,
+      "rankings": {
+        "userDamages": {
+          "value": 34289095,
+          "rank": 1663,
+          "tier": "platinum"
+        },
+        "weeklyUserDamages": {
+          "value": 6285635,
+          "rank": 853,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 18402.411,
+          "rank": 4769,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 601.0956599999996,
+          "rank": 2660,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Julio",
+      "avatarUrl": "https://media.warera.io/avatars/6998737ff2bf978ef0d68e01-1783440951799-4ztxbasg.png",
+      "level": 35,
+      "rankings": {
+        "userDamages": {
+          "value": 62646605,
+          "rank": 744,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 7705727,
+          "rank": 553,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 10966.638,
+          "rank": 8055,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 1176.7658360000003,
+          "rank": 1544,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Chouchou",
+      "avatarUrl": "https://media.warera.io/avatars/69295ca87c6ffcfbe2ffbbc8-1783887622151-1spwomv1.png",
+      "level": 34,
+      "rankings": {
+        "userDamages": {
+          "value": 36679116,
+          "rank": 1533,
+          "tier": "platinum"
+        },
+        "weeklyUserDamages": {
+          "value": 4660151,
+          "rank": 1365,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 7605.597,
+          "rank": 9627,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 1287.1836450000003,
+          "rank": 1398,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Mxz",
+      "avatarUrl": "https://media.warera.io/avatars/69d673aff7cc0387adb054d8-1783926238089-o0jtukqh.png",
+      "level": 31,
+      "rankings": {
+        "userDamages": {
+          "value": 32305660,
+          "rank": 1798,
+          "tier": "platinum"
+        },
+        "weeklyUserDamages": {
+          "value": 5125492,
+          "rank": 1175,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 15182.337,
+          "rank": 6099,
+          "tier": "gold"
+        },
+        "userBounty": {
+          "value": 457.33051600000005,
+          "rank": 3181,
+          "tier": "gold"
+        }
+      }
+    },
+    {
+      "username": "hachelle",
+      "avatarUrl": "https://media.warera.io/avatars/6919c7be99b6f95d037a8087-1781800083503-pwo2woy5.png",
+      "level": 44,
+      "rankings": {
+        "userDamages": {
+          "value": 80516211,
+          "rank": 511,
+          "tier": "diamond"
+        },
+        "weeklyUserDamages": {
+          "value": 8490330,
+          "rank": 452,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 44322.502,
+          "rank": 504,
+          "tier": "diamond"
+        },
+        "userBounty": {
+          "value": 1466.219291,
+          "rank": 1227,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Kolossal",
+      "avatarUrl": "https://media.warera.io/avatars/694facec9fa7589fa0a9335e-1784749255763-gdrk8nub.png",
+      "level": 42,
+      "rankings": {
+        "userDamages": {
+          "value": 25932712,
+          "rank": 2321,
+          "tier": "platinum"
+        },
+        "weeklyUserDamages": {
+          "value": 11062723,
+          "rank": 246,
+          "tier": "diamond"
+        },
+        "userWealth": {
+          "value": 46268.057,
+          "rank": 431,
+          "tier": "diamond"
+        },
+        "userBounty": {
+          "value": 2093.881063999996,
+          "rank": 869,
+          "tier": "platinum"
+        }
+      }
+    },
+    {
+      "username": "Toppo",
+      "avatarUrl": "https://media.warera.io/avatars/6a05f131aa7604ab1180f403-1784896809059-739508a5.png",
+      "level": 25,
+      "rankings": {
+        "userDamages": {
+          "value": 11175566,
+          "rank": 4347,
+          "tier": "gold"
+        },
+        "weeklyUserDamages": {
+          "value": 2593653,
+          "rank": 2549,
+          "tier": "platinum"
+        },
+        "userWealth": {
+          "value": 9981.642,
+          "rank": 8547,
+          "tier": "silver"
+        },
+        "userBounty": {
+          "value": 254.633566,
+          "rank": 4418,
+          "tier": "gold"
+        }
+      }
+    }
+  ]
+}

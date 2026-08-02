@@ -4,22 +4,22 @@
     "avatarUrl": "https://media.warera.io/avatars/mu/mu-69d206fc97650a3fb98a8520-1775372044366-n23wet1t.png",
     "rankings": {
       "muWeeklyDamages": {
-        "value": 224658599,
+        "value": 227524343,
         "rank": 5,
         "tier": "master"
       },
       "muBounty": {
-        "value": 90410.62451529999,
+        "value": 90545.70467529999,
         "rank": 18,
         "tier": "diamond"
       },
       "muReputation": {
-        "value": 80.99245106811507,
+        "value": 81.79245106811507,
         "rank": 1,
         "tier": "master"
       },
       "muDamages": {
-        "value": 2527089259,
+        "value": 2529928936,
         "rank": 4,
         "tier": "master"
       }
@@ -32,22 +32,22 @@
       "level": 50,
       "rankings": {
         "userDamages": {
-          "value": 366132039,
+          "value": 366313125,
           "rank": 6,
           "tier": "master"
         },
         "weeklyUserDamages": {
-          "value": 13603850,
-          "rank": 142,
+          "value": 13784936,
+          "rank": 153,
           "tier": "master"
         },
         "userWealth": {
-          "value": 9899.02,
-          "rank": 8583,
+          "value": 9897.932,
+          "rank": 8597,
           "tier": "silver"
         },
         "userBounty": {
-          "value": 46594.7763525,
+          "value": 46596.644122499994,
           "rank": 5,
           "tier": "master"
         }
@@ -59,23 +59,23 @@
       "level": 44,
       "rankings": {
         "userDamages": {
-          "value": 141638139,
-          "rank": 166,
+          "value": 141748843,
+          "rank": 167,
           "tier": "master"
         },
         "weeklyUserDamages": {
-          "value": 10158801,
-          "rank": 299,
+          "value": 10269505,
+          "rank": 303,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 22907.515,
-          "rank": 3264,
+          "value": 22943.868,
+          "rank": 3259,
           "tier": "platinum"
         },
         "userBounty": {
-          "value": 8264.591183,
-          "rank": 170,
+          "value": 8270.105583,
+          "rank": 171,
           "tier": "diamond"
         }
       }
@@ -86,23 +86,23 @@
       "level": 42,
       "rankings": {
         "userDamages": {
-          "value": 114125786,
-          "rank": 276,
+          "value": 114383335,
+          "rank": 275,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 9330296,
-          "rank": 360,
+          "value": 9587845,
+          "rank": 357,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 10505.252,
-          "rank": 8282,
+          "value": 10450.56,
+          "rank": 8316,
           "tier": "silver"
         },
         "userBounty": {
-          "value": 3441.410492,
-          "rank": 524,
+          "value": 3454.287942,
+          "rank": 526,
           "tier": "diamond"
         }
       }
@@ -113,22 +113,22 @@
       "level": 50,
       "rankings": {
         "userDamages": {
-          "value": 276585088,
+          "value": 276855472,
           "rank": 22,
           "tier": "master"
         },
         "weeklyUserDamages": {
-          "value": 17878562,
-          "rank": 64,
+          "value": 18148946,
+          "rank": 70,
           "tier": "master"
         },
         "userWealth": {
-          "value": 18813.031,
-          "rank": 4618,
+          "value": 18819.373,
+          "rank": 4616,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 38703.894602,
+          "value": 38719.622402,
           "rank": 9,
           "tier": "master"
         }
@@ -140,22 +140,22 @@
       "level": 50,
       "rankings": {
         "userDamages": {
-          "value": 225795207,
+          "value": 226089086,
           "rank": 44,
           "tier": "master"
         },
         "weeklyUserDamages": {
-          "value": 12488678,
-          "rank": 186,
+          "value": 12782557,
+          "rank": 188,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 26777.805,
-          "rank": 2358,
+          "value": 26714.202,
+          "rank": 2363,
           "tier": "platinum"
         },
         "userBounty": {
-          "value": 28349.240070999997,
+          "value": 28358.560790999996,
           "rank": 19,
           "tier": "master"
         }
@@ -167,22 +167,22 @@
       "level": 41,
       "rankings": {
         "userDamages": {
-          "value": 99411262,
-          "rank": 348,
+          "value": 99516202,
+          "rank": 349,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 8007868,
-          "rank": 519,
+          "value": 8112808,
+          "rank": 532,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 7800.01,
-          "rank": 9550,
+          "value": 7868.082,
+          "rank": 9528,
           "tier": "silver"
         },
         "userBounty": {
-          "value": 4269.312539699999,
+          "value": 4274.5595397,
           "rank": 413,
           "tier": "diamond"
         }
@@ -195,18 +195,18 @@
       "rankings": {
         "userDamages": {
           "value": 119781801,
-          "rank": 249,
+          "rank": 250,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
           "value": 7790316,
-          "rank": 541,
+          "rank": 580,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 2057.897,
-          "rank": 12150,
-          "tier": "bronze"
+          "value": 2085.199,
+          "rank": 12149,
+          "tier": "silver"
         },
         "userBounty": {
           "value": 4258.9812581,
@@ -221,23 +221,23 @@
       "level": 44,
       "rankings": {
         "userDamages": {
-          "value": 147760022,
+          "value": 147917553,
           "rank": 149,
           "tier": "master"
         },
         "weeklyUserDamages": {
-          "value": 13161984,
-          "rank": 161,
-          "tier": "master"
+          "value": 13319515,
+          "rank": 176,
+          "tier": "diamond"
         },
         "userWealth": {
-          "value": 12397.78,
-          "rank": 7371,
+          "value": 12480.529,
+          "rank": 7335,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 9694.360080499991,
-          "rank": 129,
+          "value": 9703.329660499992,
+          "rank": 130,
           "tier": "master"
         }
       }
@@ -254,17 +254,17 @@
         },
         "weeklyUserDamages": {
           "value": 15035275,
-          "rank": 107,
+          "rank": 115,
           "tier": "master"
         },
         "userWealth": {
-          "value": 40885.079,
-          "rank": 690,
+          "value": 41000.357,
+          "rank": 681,
           "tier": "diamond"
         },
         "userBounty": {
           "value": 8997.55428,
-          "rank": 144,
+          "rank": 145,
           "tier": "master"
         }
       }
@@ -275,23 +275,23 @@
       "level": 43,
       "rankings": {
         "userDamages": {
-          "value": 93473943,
-          "rank": 393,
+          "value": 93498828,
+          "rank": 394,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 11610304,
-          "rank": 221,
+          "value": 11635189,
+          "rank": 235,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 5239.817,
-          "rank": 10605,
+          "value": 5259.848,
+          "rank": 10610,
           "tier": "silver"
         },
         "userBounty": {
           "value": 1120.4004209999998,
-          "rank": 1608,
+          "rank": 1612,
           "tier": "platinum"
         }
       }
@@ -308,17 +308,17 @@
         },
         "weeklyUserDamages": {
           "value": 11143071,
-          "rank": 240,
+          "rank": 255,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 26888.639,
-          "rank": 2334,
+          "value": 26884.441,
+          "rank": 2335,
           "tier": "platinum"
         },
         "userBounty": {
           "value": 6822.305684000002,
-          "rank": 211,
+          "rank": 212,
           "tier": "diamond"
         }
       }
@@ -329,23 +329,23 @@
       "level": 43,
       "rankings": {
         "userDamages": {
-          "value": 101600112,
-          "rank": 338,
+          "value": 101980883,
+          "rank": 336,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 9813340,
-          "rank": 320,
+          "value": 10194111,
+          "rank": 309,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 15675.055,
-          "rank": 5880,
+          "value": 15651.356,
+          "rank": 5896,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 1920.5334610000007,
-          "rank": 956,
+          "value": 1939.2054010000006,
+          "rank": 949,
           "tier": "platinum"
         }
       }
@@ -356,23 +356,23 @@
       "level": 44,
       "rankings": {
         "userDamages": {
-          "value": 87688441,
-          "rank": 445,
+          "value": 87691063,
+          "rank": 446,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 5577021,
-          "rank": 1028,
+          "value": 5579643,
+          "rank": 1072,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 45508.489,
-          "rank": 457,
+          "value": 45615.495,
+          "rank": 450,
           "tier": "diamond"
         },
         "userBounty": {
           "value": 1167.844616000001,
-          "rank": 1554,
+          "rank": 1555,
           "tier": "platinum"
         }
       }
@@ -383,23 +383,23 @@
       "level": 44,
       "rankings": {
         "userDamages": {
-          "value": 108243155,
-          "rank": 305,
+          "value": 108451137,
+          "rank": 307,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 10546436,
-          "rank": 271,
+          "value": 10754418,
+          "rank": 282,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 12784.179,
-          "rank": 7195,
+          "value": 12742.239,
+          "rank": 7217,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 2738.6945130000004,
-          "rank": 658,
+          "value": 2749.2391630000006,
+          "rank": 657,
           "tier": "diamond"
         }
       }
@@ -411,17 +411,17 @@
       "rankings": {
         "userDamages": {
           "value": 61244402,
-          "rank": 767,
+          "rank": 769,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
           "value": 3640557,
-          "rank": 1873,
+          "rank": 1913,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 17286.238,
-          "rank": 5209,
+          "value": 17344.509,
+          "rank": 5194,
           "tier": "gold"
         },
         "userBounty": {
@@ -438,17 +438,17 @@
       "rankings": {
         "userDamages": {
           "value": 88056655,
-          "rank": 440,
+          "rank": 441,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
           "value": 7746227,
-          "rank": 548,
+          "rank": 588,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 41758.049,
-          "rank": 623,
+          "value": 41844.232,
+          "rank": 621,
           "tier": "diamond"
         },
         "userBounty": {
@@ -465,22 +465,22 @@
       "rankings": {
         "userDamages": {
           "value": 31514241,
-          "rank": 1860,
+          "rank": 1866,
           "tier": "platinum"
         },
         "weeklyUserDamages": {
           "value": 5145207,
-          "rank": 1167,
+          "rank": 1216,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 6497.658,
-          "rank": 10082,
+          "value": 6523.729,
+          "rank": 10091,
           "tier": "silver"
         },
         "userBounty": {
           "value": 670.0152580000001,
-          "rank": 2457,
+          "rank": 2461,
           "tier": "platinum"
         }
       }
@@ -491,23 +491,23 @@
       "level": 37,
       "rankings": {
         "userDamages": {
-          "value": 34289095,
-          "rank": 1663,
+          "value": 34368724,
+          "rank": 1664,
           "tier": "platinum"
         },
         "weeklyUserDamages": {
-          "value": 6285635,
-          "rank": 853,
+          "value": 6365264,
+          "rank": 882,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 18402.411,
-          "rank": 4769,
+          "value": 18381.945,
+          "rank": 4779,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 601.0956599999996,
-          "rank": 2660,
+          "value": 603.3244599999997,
+          "rank": 2658,
           "tier": "platinum"
         }
       }
@@ -518,23 +518,23 @@
       "level": 35,
       "rankings": {
         "userDamages": {
-          "value": 62646605,
-          "rank": 744,
+          "value": 62706262,
+          "rank": 747,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 7705727,
-          "rank": 553,
+          "value": 7765384,
+          "rank": 585,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 10966.638,
-          "rank": 8055,
+          "value": 10955.051,
+          "rank": 8073,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 1176.7658360000003,
-          "rank": 1544,
+          "value": 1179.7266360000003,
+          "rank": 1542,
           "tier": "platinum"
         }
       }
@@ -545,23 +545,23 @@
       "level": 34,
       "rankings": {
         "userDamages": {
-          "value": 36679116,
-          "rank": 1533,
+          "value": 36705183,
+          "rank": 1539,
           "tier": "platinum"
         },
         "weeklyUserDamages": {
-          "value": 4660151,
-          "rank": 1365,
+          "value": 4686218,
+          "rank": 1403,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 7605.597,
-          "rank": 9627,
+          "value": 7623.207,
+          "rank": 9635,
           "tier": "silver"
         },
         "userBounty": {
           "value": 1287.1836450000003,
-          "rank": 1398,
+          "rank": 1401,
           "tier": "platinum"
         }
       }
@@ -572,23 +572,23 @@
       "level": 31,
       "rankings": {
         "userDamages": {
-          "value": 32305660,
-          "rank": 1798,
+          "value": 32509026,
+          "rank": 1792,
           "tier": "platinum"
         },
         "weeklyUserDamages": {
-          "value": 5125492,
-          "rank": 1175,
+          "value": 5328858,
+          "rank": 1153,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 15182.337,
-          "rank": 6099,
+          "value": 15141.84,
+          "rank": 6125,
           "tier": "gold"
         },
         "userBounty": {
-          "value": 457.33051600000005,
-          "rank": 3181,
+          "value": 467.49881600000003,
+          "rank": 3133,
           "tier": "gold"
         }
       }
@@ -599,23 +599,23 @@
       "level": 44,
       "rankings": {
         "userDamages": {
-          "value": 80516211,
-          "rank": 511,
+          "value": 80720284,
+          "rank": 512,
           "tier": "diamond"
         },
         "weeklyUserDamages": {
-          "value": 8490330,
-          "rank": 452,
+          "value": 8694403,
+          "rank": 458,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 44322.502,
-          "rank": 504,
+          "value": 44311.951,
+          "rank": 501,
           "tier": "diamond"
         },
         "userBounty": {
           "value": 1466.219291,
-          "rank": 1227,
+          "rank": 1229,
           "tier": "platinum"
         }
       }
@@ -626,23 +626,23 @@
       "level": 42,
       "rankings": {
         "userDamages": {
-          "value": 25932712,
-          "rank": 2321,
+          "value": 26182688,
+          "rank": 2303,
           "tier": "platinum"
         },
         "weeklyUserDamages": {
-          "value": 11062723,
-          "rank": 246,
+          "value": 11312699,
+          "rank": 250,
           "tier": "diamond"
         },
         "userWealth": {
-          "value": 46268.057,
-          "rank": 431,
+          "value": 46221.99,
+          "rank": 430,
           "tier": "diamond"
         },
         "userBounty": {
-          "value": 2093.881063999996,
-          "rank": 869,
+          "value": 2122.286763999996,
+          "rank": 859,
           "tier": "platinum"
         }
       }
@@ -653,23 +653,23 @@
       "level": 25,
       "rankings": {
         "userDamages": {
-          "value": 11175566,
-          "rank": 4347,
+          "value": 11226209,
+          "rank": 4342,
           "tier": "gold"
         },
         "weeklyUserDamages": {
-          "value": 2593653,
-          "rank": 2549,
+          "value": 2644296,
+          "rank": 2551,
           "tier": "platinum"
         },
         "userWealth": {
-          "value": 9981.642,
+          "value": 9999.853,
           "rank": 8547,
           "tier": "silver"
         },
         "userBounty": {
-          "value": 254.633566,
-          "rank": 4418,
+          "value": 257.208816,
+          "rank": 4410,
           "tier": "gold"
         }
       }
